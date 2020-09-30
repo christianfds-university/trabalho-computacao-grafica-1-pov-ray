@@ -3,7 +3,7 @@ Primeiro trabalho desenvolvido em 2018 para a matéria de Computação Gráfica 
 
 Caso o mesmo fosse desenvolvido atualmente, diversas abordagens seriam diferentes.
 
-## Arvore CSV
+## Arvore CSG
 ![](./Images/tree/ArvoreLivroCSG.png)
 
 ## Resultados
